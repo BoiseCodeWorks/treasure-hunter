@@ -9,8 +9,6 @@ As you begin working on a console game the basic requirements of any good consol
   - Get Help ( show a list of all available commands )
   - Take Items
   - Give Up 
-  
-To help you out with some of these basic features will notice that you already have some interfaces that have been built. These interfaces are designed to help ensure you implement the basic requirements of a console game. 
 
 ### Step 1 -  Satisfy the Interfaces 
 
